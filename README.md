@@ -1,1 +1,1 @@
-# WP Simpele Exit Intent
+# WP Simple Exit Intent
